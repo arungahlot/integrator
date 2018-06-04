@@ -8,6 +8,4 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class Storage {
     private StorageService service;
-    public void createFolder(String folder) {
-    }
 }
